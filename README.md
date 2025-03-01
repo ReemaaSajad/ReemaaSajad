@@ -3,11 +3,6 @@
 
 - 👨‍💻 I'm currently working at **Bangor Savings Bank** as an **Information Security Intern**. My role involves proactively monitoring network security, managing sophisticated tools for traffic analysis and phishing simulations, and crafting an Incident Response Playbook based on NIST guidelines to robustly address security incidents.
 
-<h1 align="center">Hi 👋, I'm Reemaa Sajad Hyder</h1>
-<h3 align="center">A passionate software developer specializing in ML & Cloud Computing</h3>
-
-- 👨‍💻 I'm currently working at **Bangor Savings Bank** as an **Information Security Intern**. My role involves proactively monitoring network security, managing sophisticated tools for traffic analysis and phishing simulations, and crafting an Incident Response Playbook based on NIST guidelines to robustly address security incidents.
-
 - 🔭 My most recent project is [Ransomware Attack Detection using Machine Learning models](https://github.com/ReemaaSajad/ransomware-detection-using-ensemble-supervised-models)
 
 - 🌱 I’m learning **GCP, Cyber Security**
