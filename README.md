@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sajadhyder.re@northeastern.edu**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1TvL_kCvOqAJevVGiq_iblBnHEwbreNKx/edit?usp=sharing&ouid=104949821014228736037&rtpof=true&sd=true)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1n7Sb33BBI7YvKwdbYt57_N2YgIh0Ecv_/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
